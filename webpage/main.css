@@ -27,9 +27,9 @@ body {
   height: inherit; }
 
 #arrow {
-  position: relative;
+  position: absolute;
   height: 30px;
-  top: 350px;
+  top: 300px;
   display: block;
   margin: auto; }
 
